@@ -3,3 +3,110 @@
     padding: 0;
 }
 
+:root {
+    font-family: "Open Sans", sans-serif;
+    color: #333333;
+}
+
+body {
+    background-color: #F5F4F0;
+    max-width: 1120px;
+    margin: 0px auto 48px;
+    box-sizing: border-box;
+    padding: 0 32px;
+}
+
+#initial {
+    padding-bottom: 46px;
+}
+
+p {
+    padding-top: 4px;
+}
+
+#apresentation {
+    padding: 40px 0;
+}
+
+#apresentation > p {
+    text-align: center;
+    font-style: italic;
+    padding-top: 24px;
+}
+
+h1 {
+    color: #1B1B1B;
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 32px;
+    padding-bottom: 8px;
+}
+
+img {
+    border-radius: 28px;
+    max-width: 100%;
+}
+
+.headline {
+    color: #E1624F;
+    padding-top: 64px;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.card {
+    padding-top: 48px;
+}
+
+ol {
+    font-size: 32px;
+    font-weight: 700;
+    padding: 20px 0 0 48px;
+}
+
+ul {
+    font-weight: 700;
+    padding-left: 28px;
+}
+
+.list {
+    font-weight: 700;
+    padding-top: 16px;
+}
+
+.blue {
+    color: #0C51A7;
+}
+
+#purple {
+    color: #591B98;
+}
+
+#pink {
+    color: #E5245E;    
+}
+
+#orange {
+    color: #E95E10;    
+}
+
+#additional {
+    text-align: center;
+}
+
+#line {
+    padding: 40px 0;
+}
+
+footer {
+    padding-top: 65px;
+    text-align: center;
+    font-family: "Alice", serif;
+}
+
+footer > img {
+    vertical-align: middle;
+}
